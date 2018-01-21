@@ -12,7 +12,7 @@ two:
   image_url: lorem.jpg
   price: 9.99
 
-ruby:
+rails:
   title: Programming Rails 5.1
   description:
     Ruby is the fastest growing and most exciting dynamic
